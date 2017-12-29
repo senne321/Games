@@ -1,9 +1,16 @@
 # Games
 Game Development for the Web
 
-- [Canvvas 0](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
+- [Canvas 0](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
 
-<div id='pageslink'></div>
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+<div id='pageslink'>abc</div>
 
 <script>
 
