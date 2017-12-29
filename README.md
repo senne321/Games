@@ -20,9 +20,9 @@ Game Development for the Web
 - [Enclave games](http://enclavegames.com/)
 
 ## Books
--[O'Reilly](https://ssearch.oreilly.com/?i=1;q=game+programming;q1=Books;x1=t1&act=fc_contenttype_Books)
--[Apress](https://www.apress.com/us/search?facet-type=type__book&query=game+programming)
--[Amazon](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=game+programming)
+- [O'Reilly](https://ssearch.oreilly.com/?i=1;q=game+programming;q1=Books;x1=t1&act=fc_contenttype_Books)
+- [Apress](https://www.apress.com/us/search?facet-type=type__book&query=game+programming)
+- [Amazon](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=game+programming)
 
 ### MOOCs
 - [HTML5 Game Development (Udacity](https://eu.udacity.com/course/html5-game-development--cs255)
