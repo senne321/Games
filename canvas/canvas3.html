@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas id="myCanvas" width="200" height="350" style="border:1px solid #000000;">
+Your browser does not support the HTML5 canvas tag.
+</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+xc=70;
+yc=50;
+setInterval(drawCircle, 60);
+velocidad = 10;
+
+function drawCircle() {
+  ctx.clearRect(0,0,c.width, c.height);
+  ctx.beginPath();
+  ctx.arc(xc,yc,20,0,2*Math.PI);
+  ctx.stroke();
+  if (yc > c.height) {
+    velocidad = -velocidad;
+  }
+  if (yc < 0) {
+    velocidad = -velocidad;
+  }
+  yc = yc + velocidad;
+}
+</script>
+
+</body>
+</html>
