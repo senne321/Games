@@ -1,23 +1,9 @@
 # Games
 Game Development for the Web
 
-- [Canvas 0](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
+- [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
 
-This is a regular paragraph.
+- [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html) 
+- [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
+- [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-<div id='pageslink'>abc</div>
-
-<script>
-
-t=document.getElementsByClassName("files")[0]
-links=t.tBodies[1].getElementsByClassName("js-navigation-open")
-a0.href=a0.href.replace('github.com/nicolasserrano','nicolasserrano.github.io').replace('blob/master/','')
-for (var i=0; i < links.length; i++) {
-  document.createElement('a');
-}
-</script>
