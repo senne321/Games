@@ -16,7 +16,7 @@ Game Development for the Web
 - [Images of Angry birds](https://www.google.es/search?q=angry+bird+transparent&source=lnms&tbm=isch&sa=X)
 
 ### MOOCs
-- [HTML5 Game Development (Udacity])https://eu.udacity.com/course/html5-game-development--cs255)
+- [HTML5 Game Development (Udacity](https://eu.udacity.com/course/html5-game-development--cs255)
 - [Design and Development of Games for Learning (edX](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
 
 [Edit](https://github.com/nicolasserrano/Games/edit/master/README.md)
