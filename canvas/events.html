@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas tabIndex="1" id="canvas" width="340" height="200" style="border:1px solid" onmousemove="showCoords(event)" onkeypress="keyPressf(event)"></canvas>
+
+<p>Click and type</p>
+
+<p id="pos1"></p>
+<p id="pos2"></p>
+
+<script>
+document.getElementById("canvas").focus();
+function showCoords(event) {
+    var x = event.clientX;
+    var y = event.clientY;
+    var coords = "X: " + x + "<br>Y: " + y;
+    document.getElementById("pos1").innerHTML = coords;
+}
+
+function keyPressf(event) {
+    var code = event.which || event.keyCode;
+    document.getElementById("pos2").innerHTML = "Code: " + code;
+}
+</script>
+
+</body>
+</html>
