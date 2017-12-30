@@ -6,10 +6,12 @@ Game Development for the Web
 - [Games in github](https://github.com/nicolasserrano/Games)
 - [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
 
-## Execute 
+## Session 1 
 - [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html) - [Example drawing on canvas](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
+## Session 2 
 - [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
 - [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
+## Session 4 
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
 
 ## Reference
@@ -34,7 +36,7 @@ Game Development for the Web
 - [Amazon](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=game+programming)
 
 ### MOOCs
-- [HTML5 Game Development (Udacity](https://eu.udacity.com/course/html5-game-development--cs255)
-- [Design and Development of Games for Learning (edX](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
+- [HTML5 Game Development (Udacity)](https://eu.udacity.com/course/html5-game-development--cs255)
+- [Design and Development of Games for Learning (edX)](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
 
 [Edit](https://github.com/nicolasserrano/Games/edit/master/README.md)
