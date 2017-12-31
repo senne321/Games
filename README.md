@@ -28,6 +28,7 @@ Game Development for the Web
 - [Code inComplete](https://codeincomplete.com/posts/javascript-game-foundations/)
 
 ### Books souce code
+- [HTML Canvas](http://chimera.labs.oreilly.com/books/1234000001654)
 - [Programe Juegos con HTML5](http://libroweb.alfaomega.com.mx/book/programe_juegos_con_html5)
 - [Pro HTML5 Games (2017)](https://github.com/nicolasserrano/pro-html5-games-17)
 - [Physics for JavaScript Games, Animation, and Simulations](https://github.com/nicolasserrano/Physics-for-JavaScript-Games-Animation-Simulations) - [Run examples](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/ExamplesList.html)
