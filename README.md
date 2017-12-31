@@ -8,11 +8,14 @@ Game Development for the Web
 
 ## Session 1 
 - [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html) - [Example drawing on canvas](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
+
 ## Session 2 
 - [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
 - [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
+
 ## Session 3 
 - [Events](https://nicolasserrano.github.io/Games/canvas/events.html) 
+
 ## Session 4 
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
 
