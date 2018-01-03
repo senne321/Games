@@ -29,6 +29,7 @@ Game Development for the Web
 - [Enclave games](http://enclavegames.com/)
 - [The Aviator](https://tympanus.net/Tutorials/TheAviator/index.html)
 - [Code inComplete](https://codeincomplete.com/posts/javascript-game-foundations/)
+- [Space Raiders](http://output.jsbin.com/ozelam/4/) in [HTML5 Canvas chapter 7](http://chimera.labs.oreilly.com/books/1234000001654/ch07.html#the_final_code_for_space_raiders)
 
 ### Books source code
 - [HTML Canvas](http://chimera.labs.oreilly.com/books/1234000001654) - [source code](https://resources.oreilly.com/examples/0636920026266)
