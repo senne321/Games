@@ -37,6 +37,10 @@ Game Development for the Web
 - [Pro HTML5 Games (2017)](https://github.com/nicolasserrano/pro-html5-games-17)
 - [Physics for JavaScript Games, Animation, and Simulations](https://github.com/nicolasserrano/Physics-for-JavaScript-Games-Animation-Simulations) - [Run examples](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/ExamplesList.html)
 - [Learning HTML5 Game Programming](https://github.com/nicolasserrano/html5-game-book)
+--- Three.js
+- [Learning Three.js: The JavaScript 3D Library for WebGL](https://github.com/nicolasserrano/learning-threejs) - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=653073)  
+- [Essential Three.js](https://github.com/nicolasserrano/essential-threejs)  - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=810875)
+
 
 ### Documents
 - [Code inComplete](https://codeincomplete.com/games/)
