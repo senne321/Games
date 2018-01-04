@@ -45,8 +45,7 @@ Game Development for the Web
 
 ### Documents
 - [Code inComplete](https://codeincomplete.com/games/)  
-- [Render 3D Star Wars](http://www.smartjava.org/content/render-3d-star-wars-force-awakens-models-blender-and-threejs)
-<iframe src='//www.smartjava.org/examples/threejs-starwars/src/html/' />  
+- [Render 3D Star Wars](http://www.smartjava.org/content/render-3d-star-wars-force-awakens-models-blender-and-threejs) - [demo](http://www.smartjava.org/examples/threejs-starwars/src/html/)
 
 ### Other Books
 - [O'Reilly](https://ssearch.oreilly.com/?i=1;q=game+programming;q1=Books;x1=t1&act=fc_contenttype_Books)
