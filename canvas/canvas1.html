@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body onload="pageLoaded();">
 
 <canvas id="myCanvas" width="200" height="350" style="border:1px solid #000000;">
 Your browser does not support the HTML5 canvas tag.
@@ -8,10 +8,12 @@ Your browser does not support the HTML5 canvas tag.
 <img id="scream" src="https://www.w3schools.com/html/img_the_scream.jpg">
 
 <script>
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
-var img = document.getElementById("scream");
-    ctx.drawImage(img,10,10);
+function pageLoaded() {
+  var c = document.getElementById("myCanvas");
+  var ctx = c.getContext("2d");
+  var img = document.getElementById("scream");
+  ctx.drawImage(img,10,10);
+}
 </script>
 
 </body>
