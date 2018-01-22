@@ -32,7 +32,7 @@ Game Development for the Web
 - [Space Raiders](http://output.jsbin.com/ozelam/4/) in [HTML5 Canvas chapter 7](http://chimera.labs.oreilly.com/books/1234000001654/ch07.html#the_final_code_for_space_raiders)
 
 ### Books source code
-![HTML5 Canvas](images/coverHTML5Canvas.png | width=100) ![Physics for JavaScript Games, Animation, and Simulations](images/cover_PhysicsForJavaScript.png)
+![HTML5 Canvas](images/coverHTML5Canvas.png) ![Physics for JavaScript Games, Animation, and Simulations](images/cover_PhysicsForJavaScript.png)
 - [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654) - [source code](https://resources.oreilly.com/examples/0636920026266)
 - [Programe Juegos con HTML5](http://libroweb.alfaomega.com.mx/book/programe_juegos_con_html5)
 - [Pro HTML5 Games (2017)](https://github.com/nicolasserrano/pro-html5-games-17)
