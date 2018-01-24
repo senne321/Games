@@ -36,7 +36,7 @@ Game Development for the Web
 - [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654) - [source code](https://resources.oreilly.com/examples/0636920026266)
 - [Programe Juegos con HTML5](http://libroweb.alfaomega.com.mx/book/programe_juegos_con_html5)
 - [Pro HTML5 Games (2017)](https://github.com/nicolasserrano/pro-html5-games-17)
-- [Physics for JavaScript Games, Animation, and Simulations](https://github.com/nicolasserrano/Physics-for-JavaScript-Games-Animation-Simulations) - [Run examples](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/ExamplesList.html) - [Google Books preview](https://books.google.es/books?id=pXi7AwAAQBAJ&lpg=PP3&pg=PA35#v=twopage&q&f=true) - [DOI](https://doi.org/10.1007/978-1-4302-6338-8)
+- [Physics for JavaScript Games, Animation, and Simulations](https://github.com/nicolasserrano/Physics-for-JavaScript-Games-Animation-Simulations) - [Run examples](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/ExamplesList.html) - [Google Books preview](https://books.google.es/books?id=pXi7AwAAQBAJ&lpg=PP3&pg=PA35#v=twopage&q&f=true) 
 - [Learning HTML5 Game Programming](https://github.com/nicolasserrano/html5-game-book)  
 #### Three.js  
 - [Learning Three.js: The JavaScript 3D Library for WebGL](https://github.com/nicolasserrano/learning-threejs) - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=653073)  
