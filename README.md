@@ -20,7 +20,7 @@ Game Development for the Web
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
 
 ## Reference
-- [JavaScript in One Page (http://tiny.cc/javascript)](JavaScript/JavascriptOnePage.pdf)
+- [JavaScript in One Page (http://tiny.cc/javascript)](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf)
 - [Canvas in w3schools](https://www.w3schools.com/graphics/canvas_intro.asp)
 - [Game in w3schools](https://www.w3schools.com/graphics/game_intro.asp)
 - [Images of Angry birds](https://www.google.es/search?q=angry+bird+transparent&source=lnms&tbm=isch&sa=X)
