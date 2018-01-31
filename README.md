@@ -15,6 +15,7 @@ Game Development for the Web
 
 ## Session 3 
 - [Events](https://nicolasserrano.github.io/Games/canvas/events.html) 
+- [Real coordinates (in stackoverflow)](https://stackoverflow.com/questions/17130395/real-mouse-position-in-canvas)
 
 ## Session 4 
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
