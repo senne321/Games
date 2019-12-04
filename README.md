@@ -42,6 +42,7 @@ Game Development for the Web
 #### Three.js  
 - [Learning Three.js: The JavaScript 3D Library for WebGL](https://github.com/nicolasserrano/learning-threejs) - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=653073)  
 - [Essential Three.js](https://github.com/nicolasserrano/essential-threejs)  - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=810875)
+- [Three.js Fundamentals](https://threejsfundamentals.org/)
 
 
 ### Documents
