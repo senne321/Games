@@ -13,7 +13,7 @@ var ctx = c.getContext("2d");
 xc=70;
 yc=50;
 setInterval(drawCircle, 60);
-velocidad = 10;
+speed = 10;
 
 function drawCircle() {
   ctx.clearRect(0,0,c.width, c.height);
@@ -21,12 +21,12 @@ function drawCircle() {
   ctx.arc(xc,yc,20,0,2*Math.PI);
   ctx.stroke();
   if (yc > c.height) {
-    velocidad = -velocidad;
+    speed = -speed;
   }
   if (yc < 0) {
-    velocidad = -velocidad;
+    speed = -speed;
   }
-  yc = yc + velocidad;
+  yc = yc + speed;
 }
 </script>
 
